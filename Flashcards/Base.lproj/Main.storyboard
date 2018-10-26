@@ -84,7 +84,12 @@
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
-                <tapGestureRecognizer id="F4I-PB-97B"/>
+                <tapGestureRecognizer id="F4I-PB-97B">
+                    <connections>
+                        <action selector="didTapCard:" destination="BYZ-38-t0r" id="T3J-1n-FkZ"/>
+                    </connections>
+                </tapGestureRecognizer>
+                <tapGestureRecognizer id="hFc-pi-V8h"/>
             </objects>
             <point key="canvasLocation" x="-2578.4000000000001" y="-204.64767616191907"/>
         </scene>

@@ -81,6 +81,14 @@ class ViewController: UIViewController {
         questionLabel.isHidden = true
     }
     
+    @IBAction func didTapCard(_ sender: Any) {
+        
+        questionLabel.isHidden = false
+        btnOptiontwo.isHidden = false
+        btnOptionThree.isHidden = false
+        
+        
+    }
     
 }
 
