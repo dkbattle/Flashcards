@@ -7,8 +7,6 @@
 
 
 
-`TODO://
-
 ## Required
 - [X] Create New Project in Xcode
 - [X] Add a view for the front side of the flashcard to display the question
