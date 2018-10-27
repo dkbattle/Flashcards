@@ -3,7 +3,9 @@
 ### App Description
 `TODO: Flashcard app is used to become familiar with unknown material. 
 ### App Walk-though
-`TODO:// <img src="http://g.recordit.co/2SdiDnctCs.gif" width=200><br>
+`TODO:// 
+
+<img src="http://g.recordit.co/2SdiDnctCs.gif" width=200><br>
 
 
 
