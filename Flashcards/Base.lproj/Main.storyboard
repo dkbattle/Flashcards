@@ -20,11 +20,13 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1CU-yV-c7R">
                                 <rect key="frame" x="54" y="469" width="267" height="55"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <gestureRecognizers/>
                                 <state key="normal" title="Java">
                                     <color key="titleColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <connections>
                                     <action selector="didTapOptiontwo:" destination="BYZ-38-t0r" eventType="touchUpInside" id="SF7-c1-BaZ"/>
+                                    <outletCollection property="gestureRecognizers" destination="F4I-PB-97B" appends="YES" id="OZH-Fm-voo"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lal-lS-5KE">
@@ -86,7 +88,7 @@
                         <outlet property="btnOptionOne" destination="lal-lS-5KE" id="p5S-ms-8BG"/>
                         <outlet property="btnOptionThree" destination="oA0-vR-21r" id="RCg-Cq-xMs"/>
                         <outlet property="btnOptiontwo" destination="1CU-yV-c7R" id="FZV-Qf-jwL"/>
-                        <outlet property="card" destination="8bC-Xf-vdC" id="p0x-v3-nOc"/>
+                        <outlet property="card" destination="7Nt-x0-3Bc" id="viv-oh-Nte"/>
                         <outlet property="questionLabel" destination="5DH-b2-jvo" id="cS3-D3-A84"/>
                     </connections>
                 </viewController>
@@ -97,7 +99,7 @@
                     </connections>
                 </tapGestureRecognizer>
             </objects>
-            <point key="canvasLocation" x="-2578.4000000000001" y="-204.64767616191907"/>
+            <point key="canvasLocation" x="-2594" y="-366"/>
         </scene>
     </scenes>
 </document>

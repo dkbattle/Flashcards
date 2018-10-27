@@ -11,7 +11,8 @@ import UIKit
 class ViewController: UIViewController {
     
     
-    @IBOutlet var card: UIView!
+   
+    @IBOutlet weak var card: UIView!
     
     @IBOutlet weak var questionLabel: UILabel!
     
@@ -36,11 +37,11 @@ class ViewController: UIViewController {
         
         answer.clipsToBounds = true
         
-        card.layer.shadowRadius = 18.0
+        card.layer.shadowRadius = 15.0
         
         card.layer.shadowOpacity = 0.20
         
-        card.layer.cornerRadius = 25.0
+        card.layer.cornerRadius = 20.0
         
         
         
