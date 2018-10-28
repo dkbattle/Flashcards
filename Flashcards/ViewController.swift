@@ -90,6 +90,29 @@ class ViewController: UIViewController {
         
         
     }
+    func updateFlashcard(question: String, answer1: String) {
+        //Do stuff here
+        
+        questionLabel.text = question
+        
+        answer.text = answer1
+        
+        
+        dismiss(animated: true)
+        
+       
+        
+        
+        
+        
+    }
     
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        let navigationController = segue.destination as! UINavigationController
+        
+        let creationController = navigationController.topViewController as! CreationViewController
+        
+        creationController.flashcardsController = self
+    }
 }
 
