@@ -6,7 +6,7 @@
 ### App Walk-though
 `TODO://
 
-<img src="http://g.recordit.co/QEi2W975vY.gif" width=200><br>
+<img src="http://g.recordit.co/3lJEMLASJk.gif" width=200><br>
 
 `TODO://
 
