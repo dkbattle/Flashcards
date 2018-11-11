@@ -1,3 +1,26 @@
+## Lab 3
+
+### App Description
+`TODO://` User is able to create and save multiple flashcards
+
+### App Walk-though
+`TODO://` 
+
+<img src="http://g.recordit.co/6lcgu4HIYq.gif" width=200><br>
+
+`TODO://`
+
+## Required
+- [x] User can browse through multiple flashcards
+- [x] User can re-open the app and see previously created flashcards
+- [x] Push code to GitHub
+## Optional
+- [ ] User can delete a flashcard
+- [ ] User can edit existing flashcard
+- [ ] User can store multiple choice questions
+
+
+
 ## Lab 2
 
 ### App Description
