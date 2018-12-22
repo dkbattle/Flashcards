@@ -5,8 +5,7 @@
 `TODO://` User will be able to see app icon and a Splash screen. Slide and flip animations are added to the app as well.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
+`TODO://` 
 <img src="http://g.recordit.co/UeiNfUfS79.gif" width=200><br>
 
 `TODO://`
